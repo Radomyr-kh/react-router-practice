@@ -1,3 +1,5 @@
+This is a React application.
+
 Provide for this application `routes` by doing the next subtasks:
 
 1. Create the path `/subtask1` with parameter. After navigating to this path the application renders
